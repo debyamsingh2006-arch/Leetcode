@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -28,5 +29,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
