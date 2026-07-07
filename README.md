@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2469-convert-the-temperature](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
