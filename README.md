@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
