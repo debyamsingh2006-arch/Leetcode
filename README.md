@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
@@ -28,9 +29,18 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
