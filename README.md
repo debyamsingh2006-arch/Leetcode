@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
