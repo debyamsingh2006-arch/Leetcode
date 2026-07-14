@@ -29,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
