@@ -2,8 +2,8 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         for (int i=0;i<nums.size();i++){
-            int target=nums[i];
-            int occurrences = count(nums.begin(), nums.end(), target);
+            // int target=nums[i];
+            int occurrences = count(nums.begin(), nums.end(), nums[i]);
             if (occurrences == 1){
                 return nums[i];
             }
