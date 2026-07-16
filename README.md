@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -59,4 +62,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
