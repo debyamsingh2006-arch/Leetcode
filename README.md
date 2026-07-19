@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
