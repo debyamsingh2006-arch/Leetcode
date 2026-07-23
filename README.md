@@ -72,6 +72,7 @@
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
