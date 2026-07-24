@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0263-ugly-number) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
