@@ -26,6 +26,7 @@
 | [2235-add-two-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -88,6 +89,7 @@
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
