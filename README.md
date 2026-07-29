@@ -77,6 +77,7 @@
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
