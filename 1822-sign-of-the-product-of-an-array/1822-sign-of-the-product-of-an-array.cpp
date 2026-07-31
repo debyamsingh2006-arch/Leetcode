@@ -8,7 +8,6 @@ public:
             if (num < 0)
                 negativeCount++;
         }
-
         if (negativeCount % 2 == 0)
             return 1;
         else
