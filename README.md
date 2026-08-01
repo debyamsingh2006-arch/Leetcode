@@ -77,6 +77,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
@@ -89,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
@@ -96,6 +98,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
@@ -118,6 +121,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Brainteaser
 |  |
@@ -127,4 +131,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
