@@ -21,6 +21,7 @@
 | [0507-perfect-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -132,9 +135,18 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0190-reverse-bits) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
