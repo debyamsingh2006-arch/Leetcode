@@ -40,6 +40,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [1672-richest-customer-wealth](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
