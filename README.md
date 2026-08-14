@@ -173,4 +173,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
