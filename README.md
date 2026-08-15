@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -49,6 +50,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
