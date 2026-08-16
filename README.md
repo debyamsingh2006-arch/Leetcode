@@ -89,6 +89,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
@@ -138,6 +140,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
