@@ -24,6 +24,7 @@
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -99,6 +100,7 @@
 | [0704-binary-search](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1470-shuffle-the-array) |
