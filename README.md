@@ -81,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 ## Memoization
@@ -94,6 +95,7 @@
 | [0035-search-insert-position](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
