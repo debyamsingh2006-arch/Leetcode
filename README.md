@@ -100,6 +100,7 @@
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
