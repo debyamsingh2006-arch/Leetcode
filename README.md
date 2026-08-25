@@ -120,6 +120,7 @@
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
