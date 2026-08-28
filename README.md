@@ -81,6 +81,7 @@
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
