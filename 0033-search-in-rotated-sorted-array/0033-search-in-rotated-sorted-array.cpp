@@ -9,7 +9,7 @@ public:
                 return mid;
             }
             if (arr[start] <= arr[mid]) {
-                if (arr[start] <= target && target < arr[mid]) {
+                if (arr[start] <= target && target <= arr[mid]) {
                     end = mid - 1;
                 }
                 else {
@@ -17,7 +17,7 @@ public:
                 }
             }
             else {
-                if (arr[mid] < target && target <= arr[end]) {
+                if (arr[mid] <= target && target <= arr[end]) {
                     start = mid + 1;
                 }
                 else {
