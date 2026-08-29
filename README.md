@@ -72,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0069-sqrtx) |
@@ -95,6 +96,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0066-plus-one) |
