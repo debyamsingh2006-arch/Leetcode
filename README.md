@@ -176,6 +176,7 @@
 | [0067-add-binary](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
