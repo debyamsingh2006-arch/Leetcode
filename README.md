@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0263-ugly-number) |
@@ -57,6 +58,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -128,6 +130,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
@@ -246,6 +249,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
@@ -275,4 +279,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
