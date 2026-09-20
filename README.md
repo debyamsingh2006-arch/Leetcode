@@ -55,6 +55,7 @@
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
