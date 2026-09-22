@@ -97,6 +97,7 @@
 | [0162-find-peak-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -138,6 +139,7 @@
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,6 +177,7 @@
 | [0219-contains-duplicate-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -188,6 +191,7 @@
 | [0217-contains-duplicate](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -221,6 +225,7 @@
 | [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
