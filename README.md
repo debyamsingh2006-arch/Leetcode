@@ -43,6 +43,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -161,6 +162,7 @@
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
