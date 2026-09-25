@@ -149,6 +149,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
