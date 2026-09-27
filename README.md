@@ -42,6 +42,7 @@
 | [2235-add-two-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
