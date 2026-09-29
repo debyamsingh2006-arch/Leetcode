@@ -100,6 +100,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -310,4 +311,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
