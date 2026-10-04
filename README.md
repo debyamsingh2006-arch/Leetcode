@@ -38,6 +38,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -81,6 +82,7 @@
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
