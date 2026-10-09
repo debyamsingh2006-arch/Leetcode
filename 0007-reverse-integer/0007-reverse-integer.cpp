@@ -1,18 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans = 0, rem;
-        while(x != 0){
-            rem = x%10;
-            x = x/10;
-            if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && rem > 7)){
+        int reversed_num = 0;
+        while (x != 0) {
+            int pop = x % 10; 
+            x /= 10;         
+            if (reversed_num > INT_MAX / 10 || (reversed_num == INT_MAX / 10 && pop > 7)) {
                 return 0;
             }
-            if (ans < INT_MIN / 10 || (ans == INT_MIN / 10 && rem < -8)){
+            if (reversed_num < INT_MIN / 10 || (reversed_num == INT_MIN / 10 && pop < -8)) {
                 return 0;
-            }    
-            ans = ans*10 + rem;
+            }
+            reversed_num = reversed_num * 10 + pop;
         }
-        return ans;
+        return reversed_num;
     }
 };
