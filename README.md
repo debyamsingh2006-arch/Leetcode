@@ -18,6 +18,7 @@
 | [0202-happy-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
