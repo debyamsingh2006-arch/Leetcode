@@ -36,6 +36,7 @@
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1103-distribute-candies-to-people](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -65,6 +66,7 @@
 | [0258-add-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
+| [1103-distribute-candies-to-people](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3959-check-good-integer) |
