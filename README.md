@@ -197,6 +197,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
