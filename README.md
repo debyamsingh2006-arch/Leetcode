@@ -125,6 +125,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -191,6 +192,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -229,6 +231,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -251,6 +254,7 @@
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -291,6 +295,7 @@
 | [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
