@@ -41,6 +41,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -409,6 +410,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1323-maximum-69-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
