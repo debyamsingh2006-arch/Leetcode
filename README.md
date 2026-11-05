@@ -131,6 +131,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -201,6 +202,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -267,6 +269,7 @@
 | [1051-height-checker](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -308,6 +311,7 @@
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
