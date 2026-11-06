@@ -184,6 +184,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0704-binary-search) |
@@ -263,6 +264,7 @@
 | [0389-find-the-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
