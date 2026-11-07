@@ -74,6 +74,7 @@
 | [0682-baseball-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3959-check-good-integer) |
 ## Number Theory
@@ -137,6 +138,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -426,6 +429,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -450,4 +454,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0506-relative-ranks) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
