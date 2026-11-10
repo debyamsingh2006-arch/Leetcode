@@ -72,6 +72,7 @@
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -96,6 +97,7 @@
 | [0287-find-the-duplicate-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -192,6 +194,7 @@
 | [0682-baseball-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0896-monotonic-array) |
@@ -316,6 +319,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -362,6 +366,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
