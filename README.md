@@ -294,6 +294,7 @@
 | [0058-length-of-last-word](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
@@ -315,6 +316,7 @@
 | [0283-move-zeroes](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
