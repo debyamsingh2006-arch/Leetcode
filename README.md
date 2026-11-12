@@ -249,6 +249,7 @@
 | [0268-missing-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -295,6 +296,7 @@
 | [0067-add-binary](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0415-add-strings) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -468,4 +471,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
