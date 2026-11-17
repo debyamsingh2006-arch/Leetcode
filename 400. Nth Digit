@@ -1,0 +1,25 @@
+#include <string>
+
+class Solution {
+public:
+    int findNthDigit(int n) {
+        long long digitLength = 1;
+        long long count = 9;
+        long long start = 1;
+
+        // 1. Find the length of the number where the nth digit resides
+        while (n > digitLength * count) {
+            n -= digitLength * count;
+            digitLength++;
+            count *= 10;
+            start *= 10;
+        }
+
+        // 2. Identify the exact number containing the nth digit
+        start += (n - 1) / digitLength;
+
+        // 3. Extract the specific digit from that number
+        std::string s = std::to_string(start);
+        return s[(n - 1) % digitLength] - '0';
+    }
+};
