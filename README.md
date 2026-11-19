@@ -224,6 +224,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -283,6 +284,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3731-find-missing-elements) |
@@ -433,6 +435,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/1323-maximum-69-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
