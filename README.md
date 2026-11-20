@@ -294,6 +294,7 @@
 | [0012-integer-to-roman](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/debyamsingh2006-arch/Leetcode/tree/master/0344-reverse-string) |
