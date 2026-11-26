@@ -1,0 +1,28 @@
+#include <vector>
+#include <utility>
+
+class Solution {
+public:
+    std::vector<int> sortArrayByParityII(std::vector<int>& nums) {
+        int n = nums.size();
+        int evenIdx = 0; // Points to even indices: 0, 2, 4, ...
+        int oddIdx = 1;  // Points to odd indices: 1, 3, 5, ...
+
+        while (evenIdx < n && oddIdx < n) {
+            if (nums[evenIdx] % 2 == 0) {
+                // Current even index already has an even number
+                evenIdx += 2;
+            } else if (nums[oddIdx] % 2 == 1) {
+                // Current odd index already has an odd number
+                oddIdx += 2;
+            } else {
+                // Both pointers point to misplaced numbers; swap them
+                std::swap(nums[evenIdx], nums[oddIdx]);
+                evenIdx += 2;
+                oddIdx += 2;
+            }
+        }
+        
+        return nums;
+    }
+};
