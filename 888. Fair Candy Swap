@@ -1,0 +1,28 @@
+#include <vector>
+#include <numeric>
+#include <unordered_set>
+
+using namespace std;
+
+class Solution {
+public:
+    vector<int> fairCandySwap(vector<int>& aliceSizes, vector<int>& bobSizes) {
+        int sumA = accumulate(aliceSizes.begin(), aliceSizes.end(), 0);
+        int sumB = accumulate(bobSizes.begin(), bobSizes.end(), 0);
+        
+        // Difference Alice needs to give up (or gain if negative)
+        int diff = (sumA - sumB) / 2;
+        
+        // Store Bob's box sizes for O(1) average lookup
+        unordered_set<int> bobSet(bobSizes.begin(), bobSizes.end());
+        
+        for (int a : aliceSizes) {
+            int targetB = a - diff;
+            if (bobSet.count(targetB)) {
+                return {a, targetB};
+            }
+        }
+        
+        return {}; // Guaranteed to find an answer per problem constraints
+    }
+};
